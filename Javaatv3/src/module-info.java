@@ -1,0 +1,2 @@
+module Javaatv3 {
+}
